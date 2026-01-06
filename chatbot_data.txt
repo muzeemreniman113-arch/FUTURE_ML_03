@@ -1,0 +1,14 @@
+Q: What services do you offer?
+A: We offer product support, order tracking, refunds, and account assistance.
+
+Q: How can I track my order?
+A: You can track your order using the tracking link sent to your registered email.
+
+Q: What is your refund policy?
+A: Refunds are processed within 5–7 business days after approval.
+
+Q: How can I contact support?
+A: You can contact support through this chatbot or email support@example.com.
+
+Q: What are your working hours?
+A: Our support team is available 24/7.
